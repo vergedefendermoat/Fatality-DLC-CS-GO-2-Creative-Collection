@@ -1,4 +1,4 @@
-# Hryackmod228-DLC-CS-GO-2-Creative-Collection
+# Fatality-DLC-CS-GO-2-Creative-Collection
 
 Professional collection of modding resources, configuration guides, and creative workflows for Counter-Strike 2 custom content and DLC enhancements.
 
